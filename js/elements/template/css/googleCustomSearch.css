@@ -1,0 +1,16 @@
+form#cref table {
+	border-collapse: inherit;
+	border-spacing: 5px;
+}
+
+form#cref table tr td:first-child {
+	width: 100%;
+}
+
+form#cref table tr td input {
+	margin: 0px;
+}
+
+font#cref table tr td input[type=submit] {
+	font-size: 8px;
+}

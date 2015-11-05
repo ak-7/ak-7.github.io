@@ -1,0 +1,14 @@
+.breadcrumb {
+	border:none;
+	background:none;
+	box-shadow:none;
+}
+
+.breadcrumb .divider {
+	background:none;
+}
+
+.navigation a {
+	display:inline-block; 
+	word-break:break-all;
+}

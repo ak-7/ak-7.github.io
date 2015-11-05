@@ -1,0 +1,11 @@
+#cse-search-box input[type=text]
+{
+	width:auto !important;
+	margin-bottom:0px !important;
+}
+
+#cse-search-box input[type=submit]
+{
+	height:25px;
+	border:1px solid #D3D3D3;
+}
